@@ -1,0 +1,119 @@
+==============================================================
+INFORMASI UMUM
+
+Nama Kelompok : Android
+Kelas	      : TI-A Sore
+Alamat Github : https://github.com/fendi-tiA/android.git
+Alamat Trello : https://trello.com/b/qad5V7YD/android
+Judul Topik   : Sistem Operasi Android
+
+Daftar Anggota :
+1. Nim  : 131110089
+   Nama : Lusiana
+2. Nim  : 131110135
+   Nama : Juliandi
+3. Nim  : 131110259
+   Nama : Jimmi Wijaya
+4. Nim  : 131112276
+   Nama : Fendi
+
+==============================================================
+SPRINT
+-----------
+Sprint 1 :
+	2 Juni - 4 Juni 2015
+   	Scrum master : Fendi (131112276)
+
+Sprint 2 :
+	5 Juni - 7 Juni 2015
+   	Scrum master : Lusiana (131110089)
+
+Sprint 3 :
+	8 Juni - 10 Juni 2015
+   	Scrum master : Juliandi (131110135)
+
+Sprint 4 :
+	11 Juni - 13 Juni 2015
+   	Scrum master : Jimmi wijaya (131110259)
+
+==============================================================
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+2 Juni 2015
+Daily Scrum
+-----------
+Fendi :
+1. semalam  : -
+2. hari ini : konfigurasi dan remote repositori ke github, membuat list menu, menyelesaikan slide pengertian android.
+3. problem  : belum terbiasa dengan penggunaan git, github dsb.
+
+
+Lusi :
+1. semalam  : -
+2. hari ini : mengerjakan slide perkembangan android sampai 2.0/2.1(Eclair).
+3. problem  : tidak ada
+
+
+Juliandi:
+1. semalam  : -
+2. hari ini : mengerjakan slide sejarah android.
+3. problem  : terbatasnya waktu pengerjaan.
+
+
+Jimmi Wijaya :
+1. semalam  : -
+2. hari ini : mengerjakan slide pengertian android.
+3. problem  : tidak bisa push, error (problem solved)
+
+
+3 Juni 2015
+Daily Scrum
+-----------
+Fendi :
+1. semalam  : konfigurasi dan remote repositori ke github, membuat list menu, menyelesaikan slide pengertian android.
+2. hari ini : memasukkan gambar ke slide perkembangan android
+3. problem  : tidak ada
+
+Lusi :
+1. semalam  : mengerjakan slide perkembangan android sampai 2.0/2.1(Eclair)
+2. hari ini : mengerjakan slide perkembangan android sampai 4.1 (Jelly Bean)
+3. problem  : tidak ada
+
+
+Juliandi:
+1. semalam  : mengerjakan slide sejarah android
+2. hari ini : menyelesaikan slide sejarah android, mengerjakan slide kelebihan android
+3. problem  : terburu-buru dalam mengerjakan
+
+
+Jimmi Wijaya :
+1. semalam  : mengerjakan slide pengertian android
+2. hari ini : menyelesaikan slide kelebihan android
+3. problem  : belum terlalu memahami alur pengerjaannya
+
+
+4 Juni 2015
+Daily Scrum
+-----------
+Fendi :
+1. semalam  : memasukkan gambar ke slide perkembangan android
+2. hari ini : mengerjakan slide Fitur android bagian Aplikasi, mencari bahan untuk slide berikutnya
+3. problem  : tidak ada
+
+Lusi :
+1. semalam  : mengerjakan slide perkembangan android sampai 4.1 (Jelly Bean)
+2. hari ini : menyelesaikan slide perkembangan android
+3. problem  : tidak ada
+
+
+Juliandi:
+1. semalam  : menyelesaikan slide sejarah android, mengerjakan slide kelebihan android
+2. hari ini : mengerjakan slide fitur android bagian antar muka
+3. problem  : tidak ada
+
+
+Jimmi Wijaya :
+1. semalam  : menyelesaikan slide kelebihan android
+2. hari ini : mengerjakan slide fitur android bagian pengelolaan memory
+3. problem  : tidak ada
