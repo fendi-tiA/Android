@@ -48,18 +48,15 @@ Fendi :
 2. hari ini : konfigurasi dan remote repositori ke github, membuat list menu, menyelesaikan slide pengertian android.
 3. problem  : belum terbiasa dengan penggunaan git, github dsb.
 
-
 Lusi :
 1. semalam  : -
 2. hari ini : mengerjakan slide perkembangan android sampai 2.0/2.1(Eclair).
 3. problem  : tidak ada
 
-
 Juliandi:
 1. semalam  : -
 2. hari ini : mengerjakan slide sejarah android.
 3. problem  : terbatasnya waktu pengerjaan.
-
 
 Jimmi Wijaya :
 1. semalam  : -
@@ -80,12 +77,10 @@ Lusi :
 2. hari ini : mengerjakan slide perkembangan android sampai 4.1 (Jelly Bean)
 3. problem  : tidak ada
 
-
 Juliandi:
 1. semalam  : mengerjakan slide sejarah android
 2. hari ini : menyelesaikan slide sejarah android, mengerjakan slide kelebihan android
 3. problem  : terburu-buru dalam mengerjakan
-
 
 Jimmi Wijaya :
 1. semalam  : mengerjakan slide pengertian android
@@ -106,14 +101,84 @@ Lusi :
 2. hari ini : menyelesaikan slide perkembangan android
 3. problem  : tidak ada
 
-
 Juliandi:
 1. semalam  : menyelesaikan slide sejarah android, mengerjakan slide kelebihan android
 2. hari ini : mengerjakan slide fitur android bagian antar muka
 3. problem  : tidak ada
 
-
 Jimmi Wijaya :
 1. semalam  : menyelesaikan slide kelebihan android
 2. hari ini : mengerjakan slide fitur android bagian pengelolaan memory
+3. problem  : tidak ada
+
+
+5 Juni 2015
+Daily Scrum
+-----------
+Fendi :
+1. semalam  : mengerjakan slide Fitur android bagian Aplikasi, mencari bahan untuk slide berikutnya
+2. hari ini : mengerjakan slide kekurangan android
+3. problem  : tidak ada
+
+Lusi :
+1. semalam  : menyelesaikan slide perkembangan android
+2. hari ini : mengerjakan slide penggunaan android
+3. problem  : tidak ada
+
+Juliandi:
+1. semalam  : mengerjakan slide fitur android bagian antar muka
+2. hari ini : mengerjakan slide perbandingan android
+3. problem  : tidak ada
+
+Jimmi Wijaya :
+1. semalam  : mengerjakan slide fitur android bagian pengelolaan memory
+2. hari ini : mengerjakan slide kekurangan android
+3. problem  : tidak ada
+
+
+6 Juni 2015
+Daily Scrum
+-----------
+Fendi :
+1. semalam  : mengerjakan slide kekurangan android
+2. hari ini : mengerjakan slide kekurangan android
+3. problem  : tidak ada
+
+Lusi :
+1. semalam  : mengerjakan slide penggunaan android
+2. hari ini : mengerjakan slide penggunaan android
+3. problem  : tidak ada
+
+Juliandi:
+1. semalam  : mengerjakan slide perbandingan android
+2. hari ini : mengerjakan slide perbandingan android
+3. problem  : tidak ada
+
+Jimmi Wijaya :
+1. semalam  : mengerjakan slide kekurangan android
+2. hari ini : menyelesaikan slide kekurangan android
+3. problem  : tidak ada
+
+
+7 Juni 2015
+Daily Scrum
+-----------
+Fendi :
+1. semalam  : mengerjakan slide kekurangan android
+2. hari ini : menyelesaikan slide penggunaan android
+3. problem  : tidak ada
+
+Lusi :
+1. semalam  : mengerjakan slide penggunaan android
+2. hari ini : mengerjakan slide penggunaan android
+3. problem  : tidak ada
+
+Juliandi:
+1. semalam  : mengerjakan slide perbandingan android
+2. hari ini : mengerjakan slide perbandingan android
+3. problem  : tidak ada
+
+Jimmi Wijaya :
+1. semalam  : menyelesaikan slide kekurangan android
+2. hari ini : menyelesaikan slide perbandingan android
 3. problem  : tidak ada
