@@ -1,3 +1,4 @@
+
 ==============================================================
 INFORMASI UMUM
 
@@ -235,7 +236,7 @@ Daily Scrum
 Fendi :
 1. semalam  : Melanjutkan section ke-5 pada slide Keamanan dan Privasi
 2. hari ini : Penyelesaian sisa slide yang ada
-3. problem  : Tidak ada
+3. problem  : file index rusak
 
 Lusi :
 1. semalam  : Meng-Update menu pada slide Keamanan dan Privasi 
@@ -250,4 +251,73 @@ Juliandi:
 Jimmi Wijaya :
 1. semalam  : Penyelesaian section ke-5 pada slide Keamanan dan Privasi + Pemulaian section ke-6
 2. hari ini : Penyelesaian section ke-6
+3. problem  : Tidak ada
+
+11 Juni 2015
+Daily Scrum
+-----------
+Fendi :
+1. semalam  : Penyelesaian sisa slide yang ada pada slide keamanan dan privasi
+2. hari ini : Penambahan section ke 2 pada slide Masalah Hukum
+3. problem  : Tidak ada
+
+Lusi :
+1. semalam  : Melanjutkan section ke-6 slide keamanan dan privasi
+2. hari ini : Memulai section ke 1 pada slide  Lisensi Android
+3. problem  : Tidak ada
+
+Juliandi:
+1. semalam  : Sambungan section ke-6 pada keamanan dan privasi
+2. hari ini : Memulai section ke 1 pada slide Masalah Hukum
+3. problem  : Tidak ada
+
+Jimmi Wijaya :
+1. semalam  : Penyelesaian section ke-6 pada keamanan dan privasi
+2. hari ini : Penyelesain section ke 1 pada slide Lisensi Android
+3. problem  : Tidak ada
+
+12 Juni 2015
+Daily Scrum
+-----------
+Fendi :
+1. semalam  : Penambahan section ke 2 pada slide Masalah Hukum
+2. hari ini : Penambahan section ke 2 pada slide Lisensi Android
+3. problem  : Tidak ada
+
+Lusi :
+1. semalam  : Memulai section ke 1 pada slide  Lisensi Android
+2. hari ini : Penambahan section ke 3 pada slide Lisensi Android
+3. problem  : Tidak ada
+
+Juliandi:
+1. semalam  : Memulai section ke 1 pada slide Masalah Hukum
+2. hari ini : Penyelesaian section ke 2 dan pemulaian section ke 3 pada slide masalah hukum
+3. problem  : Tidak ada
+
+Jimmi Wijaya :
+1. semalam  : Penyelesain section ke 1 pada slide Lisensi Android
+2. hari ini : Penambahan section ke 4 pada slide Lisensi Android
+3. problem  : Tidak ada
+
+13 Juni 2015
+Daily Scrum
+-----------
+Fendi :
+1. semalam  : Penambahan section ke 2 pada slide Lisensi Android
+2. hari ini : Penambahan section ke 4 pada slide Masalah hukum
+3. problem  : Tidak ada
+
+Lusi :
+1. semalam  : Memulai section ke 1 pada slide  Lisensi Android
+2. hari ini : Mengupdate file Menu pada slide Lisensi Android
+3. problem  : Tidak ada
+
+Juliandi:
+1. semalam  : Penyelesaian section ke 2 dan pemulaian section ke 3 pada slide masalah hukum
+2. hari ini : Penyelesaian section ke 3 pada slide Masalah hukum
+3. problem  : Tidak ada
+
+Jimmi Wijaya :
+1. semalam  : enambahan section ke 4 pada slide Lisensi Android
+2. hari ini : Mengupdate file Menu pada slide Masalah Hukum
 3. problem  : Tidak ada
